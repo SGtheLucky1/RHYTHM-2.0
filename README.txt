@@ -1,5 +1,5 @@
 RHYTHM 2.0: Panoramic Imaging Toolkit
-August 24, 2017
+January 23, 2018
 
 Supported Platforms:
 
@@ -14,7 +14,7 @@ Requirements:
 Included:
 
 	[1] Documentation
-		Contains installation for Visualization ToolKit (VTK) software.
+		Contains installation for Visualization ToolKit (VTK) software if being used.
 		Contains user manual for MATLAB software.
 		Contains a list of 3D-printed parts and descriptions.
 		Contains list of parts used in experimental setup.
@@ -22,15 +22,13 @@ Included:
    	[2] Resources
 		Contains the STL files for the 3D-printed parts used in experimental setup.
 		Contains the manuscript relevant to the toolkit.
-
-	[3] Sample Datasets
-		Contains the sample rabbit dataset. Also available at *insert link to sample data*.
-
-	[4] Source Code
+	
+	[3] Source Code
 		Contains the MATLAB related files in the MATLAB folder.
-		Contains VTK source files.
 
-Required User Modifications (as of August 24, 2017):
+A sample dataset can be found along with the Github release at https://github.com/SGtheLucky1/RHYTHM-2.0
+
+Required User Modifications (as of January 23, 2018):
 
 	[1] Change path names in files.
 
