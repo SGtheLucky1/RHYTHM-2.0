@@ -1,0 +1,9 @@
+study='Rabbit_2016_0527';
+runlabel='04';
+fname1='04_d.cdf';
+fname2='04_sigqual.cdf';
+fname3='04_d.qscale';
+winsize=512;  % 512
+nfft=1024;     % 1024
+minfreq=5;   % Hz, should be higher than the pacing rate
+maxfreq=60;  % Hz
