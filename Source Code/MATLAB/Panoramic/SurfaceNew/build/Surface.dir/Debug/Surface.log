@@ -1,0 +1,32 @@
+﻿  Building Custom Rule C:/Users/SGtheLucky1/Research/College/Efimov Lab/PanoramicTesting/Panoramic/SurfaceNew/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/SGtheLucky1/Research/College/Efimov Lab/PanoramicTesting/Panoramic/SurfaceNew/build/CMakeFiles/generate.stamp is up-to-date.
+  Surface.cxx
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(94): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\time.h(475): note: see declaration of 'ctime'
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(99): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(102): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(105): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(111): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(117): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(120): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(314): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(365): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(382): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(401): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx(420): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  Surface.vcxproj -> C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\build\Debug\Surface.exe

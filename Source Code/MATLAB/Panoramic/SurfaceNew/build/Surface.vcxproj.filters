@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\Surface.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\SGtheLucky1\Research\College\Efimov Lab\PanoramicTesting\Panoramic\SurfaceNew\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4520D5CE-D75E-391B-9560-CF04E777BFB8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

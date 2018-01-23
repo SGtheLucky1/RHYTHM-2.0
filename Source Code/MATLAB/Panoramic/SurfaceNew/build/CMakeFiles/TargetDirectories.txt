@@ -1,0 +1,3 @@
+C:/Users/SGtheLucky1/Research/College/Efimov Lab/PanoramicTesting/Panoramic/SurfaceNew/build/CMakeFiles/Surface.dir
+C:/Users/SGtheLucky1/Research/College/Efimov Lab/PanoramicTesting/Panoramic/SurfaceNew/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/SGtheLucky1/Research/College/Efimov Lab/PanoramicTesting/Panoramic/SurfaceNew/build/CMakeFiles/ZERO_CHECK.dir
